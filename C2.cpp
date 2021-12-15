@@ -1,4 +1,4 @@
-/*  Implemented by Leon Zhu - Leonzhu@umbc.edu
+/*  Implemented by Leon Zhu - LZhu7080@gmail.com
     Github: DD-LZ
 
     Decrypt KDB files using the decryption algorithm from C1.
