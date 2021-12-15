@@ -1,4 +1,4 @@
-/*  Implemented by Leon Zhu - Leonzhu@umbc.edu
+/*  Implemented by Leon Zhu - LZhu7080@gmail.com
     Github: DD-LZ
 
     Implementation of file encrypting and decrypting using an LSFR algorithm 
